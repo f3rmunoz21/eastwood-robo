@@ -1,0 +1,15 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://img1.mashed.com/img/gallery/this-is-why-chick-fil-as-chicken-is-so-delicious/intro-1560449765.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .font-weight-light {
+    color: white;
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: bold;
+  }
